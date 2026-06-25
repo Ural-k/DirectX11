@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="DirectX11Test.vcxproj" />
+  <Project Path="ProjectX11.vcxproj" />
 </Solution>
