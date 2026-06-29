@@ -1,4 +1,4 @@
-#include "WinApp.h"
+﻿#include "WinApp.h"
 
 WinApp::WinApp()
 	:m_hwnd(nullptr),

@@ -142,10 +142,12 @@
   <ItemGroup>
     <ClCompile Include="Source\FrameWork.cpp" />
     <ClCompile Include="Source\main.cpp" />
+    <ClCompile Include="Source\System\RenderDevice.cpp" />
     <ClCompile Include="Source\System\WinApp.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Source\FrameWork.h" />
+    <ClInclude Include="Source\System\RenderDevice.h" />
     <ClInclude Include="Source\System\WinApp.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
